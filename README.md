@@ -34,7 +34,7 @@
 ### ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flutter,js,html,css,tensorflow,firebase,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,flutter,js,html,css,tensorflow,firebase,&theme=dark" />
 </p>
 
 ---

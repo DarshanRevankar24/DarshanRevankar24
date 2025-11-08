@@ -34,7 +34,7 @@
 ### ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flutter,js,html,css,tensorflow,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flutter,js,html,css,tensorflow,firebase,&theme=dark" />
 </p>
 
 ---
@@ -56,15 +56,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarshanRevankar24&theme=radical" width="95%"/>
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:darshanjbdvt24@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://github.com/DarshanRevankar24"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
 ---

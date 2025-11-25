@@ -16,18 +16,17 @@
   <img src="https://github.com/DarshanRevankar24.png?size=200" width="200" style="border-radius:50%;box-shadow:0 0 25px #00ffff;">
 </p>
 
-<h3 align="center">⚡ AI | ML | Agentic AI | Edge Computing | Flutter ⚡</h3>
+<h3 align="center">⚡ AI | ML | Flutter ⚡</h3>
+<h2 align="center">Interested in **Agentic AI**, **Computer Vision**, and **Edge Computing**  </h2>
 
-<p align="center">
-  <em>“Coding in the shadows. Innovating in the light.”</em>
-</p>
+
 
 ---
 
 ### 🦇 About Me  
 🚀 **Aspiring AI Engineer** focused on creating intelligent and sustainable solutions.  
  | 💡 Exploring **Agentic AI**, **Computer Vision**, and **Edge AI**  
-🏋️‍♂️ **Powerlifter** | 🌙 **Night Coder** | ⚙️ **Tech Innovator**  
+🏋️‍♂️ **Powerlifter** | 🌙 **Night Coder** 
 
 ---
 
